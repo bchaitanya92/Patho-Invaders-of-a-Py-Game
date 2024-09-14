@@ -13,7 +13,7 @@ It's my 1st py-game for the end-users.
 Install pydroid3 on Android from here : [pydroid3 playstore](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_IN&gl=US)
 
 <p align='center'>
-  <img src='/Assets/fighter.png' width=1000 height=300>
+  <img src='/Assets/fighter.png' width=1000 height=500>
 </p>
 
 ## How to Download

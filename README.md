@@ -68,7 +68,7 @@ Patho-Invaders
 
 1.  **Clone the repository**:
     ```sh
-    git clone [https://github.com/bchaitanya92/Patho-Invaders-of-a-Py-Game.git](https://github.com/bchaitanya92/Patho-Invaders-of-a-Py-Game.git)
+    git clone https://github.com/bchaitanya92/Patho-Invaders-of-a-Py-Game.git
     cd Patho-Invaders-of-a-Py-Game
     ```
 
